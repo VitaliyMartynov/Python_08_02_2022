@@ -8,3 +8,6 @@ print(x // 10 % 10)
 print(x % 10)
 from math import pi
 print(pi)
+a = 10
+b = 10
+print(id(a), id(b))
